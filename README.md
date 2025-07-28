@@ -20,10 +20,12 @@ Slides
 
 [**lecture 2**](https://github.com/yakazimir/LMProgramming/blob/main/slides/lecture2.pdf): declarative approaches to **model training and fine-tuning**, the [**semantic loss**](https://arxiv.org/pdf/1711.11157) and [**weighted model counting**](https://www.sciencedirect.com/science/article/pii/S0004370207001889),  [**other**](https://arxiv.org/abs/1909.00126) approaches.
 
-[**lecture 3**]: high-level programming techniques for [**direct preference alignment**](https://arxiv.org/abs/2305.18290) and LLM alignment, [**formal characterizations**](https://arxiv.org/abs/2412.17696) of *known* loss functions.  
+[**lecture 3**]: high-level programming techniques for [**direct preference alignment**](https://arxiv.org/abs/2305.18290) and [**LLM alignment**](https://www.jair.org/index.php/jair/article/view/17541), [**formal characterizations**](https://arxiv.org/abs/2412.17696) of *known* loss functions.  
+
+**lecture 4**: declarative and probabilistic approaches to test-time inference, LLM self-correction, consistency.
 
 
-**background** [logic notes](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/logic_background.pdf), [extended notes on transformers](https://www.krichardson.me/files/lms.pdf)
+**background** [logic notes](https://github.com/yakazimir/LMProgramming/blob/main/slides/logic_primer.pdf), [extended notes on transformers](https://www.krichardson.me/files/lms.pdf)
 
 Helpful Resources 
 ==========
