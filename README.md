@@ -22,7 +22,7 @@ Slides
 
 [**lecture 3**]: high-level programming techniques for [**direct preference alignment**](https://arxiv.org/abs/2305.18290) and [**LLM alignment**](https://www.jair.org/index.php/jair/article/view/17541), [**formal characterizations**](https://arxiv.org/abs/2412.17696) of *known* loss functions.  
 
-**lecture 4**: declarative and probabilistic approaches to test-time inference, LLM self-correction, consistency.
+**lecture 4**: [**declarative and probabilistic approaches**](https://www.khoury.northeastern.edu/home/lieber/courses/csg260/f06/materials/papers/bayes/AAAI02-102.pdf) to test-time inference, [**LLM self-correction**](https://arxiv.org/abs/2211.11875), [**consistency**](https://arxiv.org/pdf/2409.13724).
 
 
 **background** [logic notes](https://github.com/yakazimir/LMProgramming/blob/main/slides/logic_primer.pdf), [extended notes on transformers](https://www.krichardson.me/files/lms.pdf)
