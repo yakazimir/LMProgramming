@@ -16,12 +16,14 @@ Lecturers
 Slides 
 ==========
 
-[**lecture 1**](https://github.com/yakazimir/LMProgramming/blob/main/slides/lecture1.pdf): course overview, **language modeling basics**, [**RASP**](https://arxiv.org/pdf/2106.06981). [**extended notes on transformers**](https://www.krichardson.me/files/lms.pdf)
+[**lecture 1**](https://github.com/yakazimir/LMProgramming/blob/main/slides/lecture1.pdf): course overview, **language modeling basics**, [**transformers**](https://arxiv.org/abs/1706.03762),  [**RASP**](https://arxiv.org/pdf/2106.06981).
 
 [**lecture 2**](https://github.com/yakazimir/LMProgramming/blob/main/slides/lecture2.pdf): declarative approaches to **model training and fine-tuning**, the [**semantic loss**](https://arxiv.org/pdf/1711.11157) and [**weighted model counting**](https://www.sciencedirect.com/science/article/pii/S0004370207001889),  [**other**](https://arxiv.org/abs/1909.00126) approaches.
 
 
-**background** [logic notes](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/logic_background.pdf)
+
+
+**background** [logic notes](https://github.com/yakazimir/esslli_2024_llm_programming/blob/main/slides/logic_background.pdf), [extended notes on transformers](https://www.krichardson.me/files/lms.pdf)
 
 Helpful Resources 
 ==========
