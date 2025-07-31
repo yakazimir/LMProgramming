@@ -24,8 +24,12 @@ Slides
 
 [**lecture 4**](https://github.com/yakazimir/LMProgramming/blob/main/slides/lecture4.pdf): [**declarative and probabilistic approaches**](https://www.khoury.northeastern.edu/home/lieber/courses/csg260/f06/materials/papers/bayes/AAAI02-102.pdf) to test-time inference, [**LLM self-correction**](https://arxiv.org/abs/2211.11875), [**consistency**](https://arxiv.org/pdf/2409.13724), distilling LLMs to tractable models, logic programming.
 
+**lecture 5** Advanced prompting, [**chain-of-thought**](https://proceedings.neurips.cc/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html), [**imperative model programming**](https://arxiv.org/pdf/2212.06094), ([discrete](https://arxiv.org/abs/1904.02079)) [**probabilistic programming**](https://discovery.ucl.ac.uk/id/eprint/10089698/1/main.pdf).
+
 
 **background** [logic notes](https://github.com/yakazimir/LMProgramming/blob/main/slides/logic_primer.pdf), [extended notes on transformers](https://www.krichardson.me/files/lms.pdf)
+
+**extra lectures** [prompting as programming](https://github.com/yakazimir/LMProgramming/blob/main/slides/prompting_programming.pdf), [Grammar-constrained decoding](https://github.com/yakazimir/LMProgramming/blob/main/slides/grammar_decoding.pdf)
 
 Helpful Resources 
 ==========
