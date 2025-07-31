@@ -39,3 +39,5 @@ Below are some pointers to code resources:
 - **automated reasoning tools** [[Z3 solver]](https://github.com/Z3Prover/z3), [[python-sat]](https://pysathq.github.io/), [[pysdd]](https://github.com/wannesm/PySDD) 
 - **NLP and general ML** [[transformers]](https://github.com/huggingface/transformers), [[PyTorch]](https://pytorch.org/), [[pylon-lib]](https://github.com/pylon-lib/pylon), [[hf datasets]](https://huggingface.co/docs/datasets/index)
 - **other useful utilities** [[sympy]](https://www.sympy.org/en/index.html)
+
+Useful tutorials: [**Transformers from scratch**](https://peterbloem.nl/blog/transformers) (*some examples/ideas used in lecture 1*), [**Lectures on Probabilistic Programming**](https://www.khoury.northeastern.edu/home/sholtzen/oplss24-ppl/), [**Tractable Probabilistic Models**](https://web.cs.ucla.edu/~guyvdb/slides/TPMTutorialUAI19.pdf)
