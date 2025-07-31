@@ -22,7 +22,7 @@ Slides
 
 [**lecture 3**](https://github.com/yakazimir/LMProgramming/blob/main/slides/lecture3.pdf): high-level programming techniques for [**direct preference alignment**](https://arxiv.org/abs/2305.18290) and [**LLM alignment**](https://www.jair.org/index.php/jair/article/view/17541), [**formal characterizations**](https://arxiv.org/abs/2412.17696) of *known* loss functions.  
 
-[**lecture 4**](https://github.com/yakazimir/LMProgramming/blob/main/slides/lecture4.pdf): [**declarative and probabilistic approaches**](https://www.khoury.northeastern.edu/home/lieber/courses/csg260/f06/materials/papers/bayes/AAAI02-102.pdf) to test-time inference, [**LLM self-correction**](https://arxiv.org/abs/2211.11875), [**consistency**](https://arxiv.org/pdf/2409.13724), distilling LLMs to tractable models, logic programming.
+[**lecture 4**](https://github.com/yakazimir/LMProgramming/blob/main/slides/lecture4.pdf): [**declarative and probabilistic approaches**](https://www.khoury.northeastern.edu/home/lieber/courses/csg260/f06/materials/papers/bayes/AAAI02-102.pdf) to test-time inference, [**LLM self-correction**](https://arxiv.org/abs/2211.11875), [**consistency**](https://arxiv.org/pdf/2409.13724), distilling LLMs to tractable models, [**logic programming**](https://arxiv.org/abs/1805.10872).
 
 **lecture 5**: Advanced prompting, [**chain-of-thought**](https://proceedings.neurips.cc/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html), [**imperative model programming**](https://arxiv.org/pdf/2212.06094), ([discrete](https://arxiv.org/abs/1904.02079)) [**probabilistic programming**](https://discovery.ucl.ac.uk/id/eprint/10089698/1/main.pdf).
 
