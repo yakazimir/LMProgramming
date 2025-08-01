@@ -36,8 +36,8 @@ Helpful Resources
 
 Below are some pointers to code resources:
 - **languages** [[scallop]](https://github.com/scallop-lang/scallop), [[problog]](https://github.com/ML-KULeuven/problog), [[pyDatalog]](https://github.com/pcarbonn/pyDatalog), [[lmql]](https://github.com/eth-sri/lmql),[[rasp]](https://github.com/tech-srl/RASP), [[NumPy Rasp]](https://github.com/apple/ml-np-rasp), [[deepproblog]](https://github.com/ML-KULeuven/deepproblog) 
-- **automated reasoning tools** [[Z3 solver]](https://github.com/Z3Prover/z3), [[python-sat]](https://pysathq.github.io/), [[pysdd]](https://github.com/wannesm/PySDD) 
-- **NLP and general ML** [[transformers]](https://github.com/huggingface/transformers), [[PyTorch]](https://pytorch.org/), [[pylon-lib]](https://github.com/pylon-lib/pylon), [[hf datasets]](https://huggingface.co/docs/datasets/index)
+- **automated reasoning tools/circuits** [[Z3 solver]](https://github.com/Z3Prover/z3), [[python-sat]](https://pysathq.github.io/), [[pysdd]](https://github.com/wannesm/PySDD), [[cirkit](https://github.com/april-tools/cirkit)] 
+- **NLP and general ML** [[transformers]](https://github.com/huggingface/transformers), [[PyTorch]](https://pytorch.org/), [[pylon-lib]](https://github.com/pylon-lib/pylon), [[hf datasets]](https://huggingface.co/docs/datasets/index), [[hf hub]](https://huggingface.co/docs/hub/en/index)
 - **other useful utilities** [[sympy]](https://www.sympy.org/en/index.html)
 
 **Useful tutorials**: [**Transformers from scratch**](https://peterbloem.nl/blog/transformers) (*some examples/ideas used in lecture 1*), [**Lectures on Probabilistic Programming**](https://www.khoury.northeastern.edu/home/sholtzen/oplss24-ppl/), [**Tractable Probabilistic Models**](https://web.cs.ucla.edu/~guyvdb/slides/TPMTutorialUAI19.pdf)
